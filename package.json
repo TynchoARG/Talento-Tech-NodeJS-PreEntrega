@@ -1,0 +1,22 @@
+{
+  "name": "talento-tech-nodejs-preentrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TynchoARG/Talento-Tech-NodeJS-PreEntrega.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/TynchoARG/Talento-Tech-NodeJS-PreEntrega/issues"
+  },
+  "homepage": "https://github.com/TynchoARG/Talento-Tech-NodeJS-PreEntrega#readme"
+}
